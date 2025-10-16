@@ -21,8 +21,6 @@ You can find me here:
 [![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jking420.itch.io/)
 
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephK&show_icons=true&theme=radical)
 
 <!--
 **JoesphK/JoesphK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
