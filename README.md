@@ -17,7 +17,8 @@ I use these tools on a regular basis:
 ## Connections
 You can find me here:  
 youssef.bsh.likex@gmail.com  
-![linkedin](https://www.linkedin.com/in/joesphelbishbishy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joesphelbishbishy)
+
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephK&show_icons=true&theme=radical)
 
