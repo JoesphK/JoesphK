@@ -4,7 +4,7 @@ I am also a hobbyist game developer and desinger.
 
 
 # Software and tools I use
-I use these tools on a regular basis
+I use these tools on a regular basis:
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -15,10 +15,10 @@ I use these tools on a regular basis
 ![Unreal Engine](https://img.shields.io/badge/UnrealEngine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Connections
-You can find me here
+You can find me here:  
 youssef.bsh.likex@gmail.com  
 ![linkedin](https://www.linkedin.com/in/joesphelbishbishy/)
-## Status
+## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephK&show_icons=true&theme=radical)
 
 <!--
