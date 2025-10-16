@@ -17,7 +17,9 @@ I use these tools on a regular basis:
 ## Connections
 You can find me here:  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.bsh.likex@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joesphelbishbishy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joesphelbishbishy)  
+[![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jking420.itch.io/)
+
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephK&show_icons=true&theme=radical)
