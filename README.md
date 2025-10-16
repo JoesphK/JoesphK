@@ -1,6 +1,6 @@
 # Hey there. I am Joe.
 I am a DevOps and AWS cloud engineer. I enjoy finding creative solutions to automate my life and to build resilent and scalable software.
-I am also a hobbyist game developer and desinger.
+I am also a hobbyist game developer and designer.
 
 
 # Software and tools I use
